@@ -4,6 +4,18 @@
 
 [1]: https://www.npmjs.com/package/nodejs-spanner?activeTab=versions
 
+## [5.2.0](https://www.github.com/googleapis/nodejs-spanner/compare/v5.1.0...v5.2.0) (2020-06-05)
+
+
+### Features
+
+* add code sample for creating an instance ([#1073](https://www.github.com/googleapis/nodejs-spanner/issues/1073)) ([ab6dc62](https://www.github.com/googleapis/nodejs-spanner/commit/ab6dc62061e6893ec170b07fc3ffebbd2a4179f8))
+
+
+### Bug Fixes
+
+* update DELETE samples to match docs ([#1072](https://www.github.com/googleapis/nodejs-spanner/issues/1072)) ([3336e04](https://www.github.com/googleapis/nodejs-spanner/commit/3336e04f6ff75539712d62ce2afabc70d8738150))
+
 ## [5.1.0](https://www.github.com/googleapis/nodejs-spanner/compare/v5.0.0...v5.1.0) (2020-06-04)
 
 
